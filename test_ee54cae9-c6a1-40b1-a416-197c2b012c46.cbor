@@ -1,0 +1,1088 @@
+{
+  "type": 2,
+  "description": "",
+  "gameplaceid": "0",
+  "uid": "ee54cae9-c6a1-40b1-a416-197c2b012c46",
+  "name": "test",
+  "data": {
+    "aimbot": {
+      "accountInGameSensitivity": false,
+      "aimbotBodyPart": 0,
+      "aimbotEnabled": false,
+      "aimbotFilterDistant": false,
+      "aimbotIgnoreMode": [],
+      "aimbotKeybind": {
+        "key": 2,
+        "method": 0
+      },
+      "aimbotMaxDistance": 1000,
+      "aimbotPriority": 0,
+      "aimbotType": 0,
+      "aimingOffsets": {
+        "x": 0,
+        "y": 0
+      },
+      "drawFov": false,
+      "fov": 35,
+      "fovBaseColor": {
+        "w": 0.3921568989753723,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "fovDotDensity": 12,
+      "fovDotsColor": {
+        "w": 1,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "fovFillColor": {
+        "w": 0.21568629145622253,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "fovPulseColor": {
+        "w": 1,
+        "x": 0.6509804129600525,
+        "y": 0.41960787773132324,
+        "z": 0.2352941334247589
+      },
+      "fovPulseSpeed": 2,
+      "fovSegments": 32,
+      "fovStyles": [
+        2,
+        1
+      ],
+      "orbitTarget": false,
+      "prediction": false,
+      "predictionAmount": {
+        "x": 2,
+        "y": 2
+      },
+      "sensitivity": 8,
+      "smartFov": false,
+      "smoothness": 3.5,
+      "snaplines": false,
+      "stickyAim": false,
+      "targetHud": false,
+      "targetHudPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "teamCheck": false
+    },
+    "aimbot_silentaim": {
+      "silentaimBodyPart": 0,
+      "silentaimEnabled": false,
+      "silentaimFilterDistant": false,
+      "silentaimIgnoreMode": [],
+      "silentaimKeybind": {
+        "key": 2,
+        "method": 0
+      },
+      "silentaimMaxDistance": 1000,
+      "silentaimPriority": 0,
+      "silentaimType": 0,
+      "silentaim_aimingOffsets": {
+        "x": 0,
+        "y": 0
+      },
+      "silentaim_drawFov": false,
+      "silentaim_fov": 35,
+      "silentaim_fovBaseColor": {
+        "w": 0.3921568989753723,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "silentaim_fovDotDensity": 12,
+      "silentaim_fovDotsColor": {
+        "w": 1,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "silentaim_fovFillColor": {
+        "w": 0.21568629145622253,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "silentaim_fovPulseColor": {
+        "w": 1,
+        "x": 0.6509804129600525,
+        "y": 0.41960787773132324,
+        "z": 0.2352941334247589
+      },
+      "silentaim_fovPulseSpeed": 2,
+      "silentaim_fovSegments": 32,
+      "silentaim_fovStyles": [
+        2,
+        1
+      ],
+      "silentaim_prediction": false,
+      "silentaim_predictionAmount": {
+        "x": 2,
+        "y": 2
+      },
+      "silentaim_smartFov": false,
+      "silentaim_stickyAim": false,
+      "silentaim_teamCheck": false
+    },
+    "aimbot_triggerbot": {
+      "tBotDrawFov": true,
+      "tBotFov": 12,
+      "tBotFovBaseColor": {
+        "w": 0.3921568989753723,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "tBotFovDotDensity": 12,
+      "tBotFovDotsColor": {
+        "w": 1,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "tBotFovFillColor": {
+        "w": 0.21568629145622253,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "tBotFovPulseColor": {
+        "w": 1,
+        "x": 0.6509804129600525,
+        "y": 0.41960787773132324,
+        "z": 0.2352941334247589
+      },
+      "tBotFovPulseSpeed": 2,
+      "tBotFovSegments": 32,
+      "tBotFovStyles": [
+        2,
+        1
+      ],
+      "tBotReactionTime": 200,
+      "tbotFilterDistant": false,
+      "tbotIgnoreModes": [],
+      "tbotMaxDistance": 175,
+      "tbotTargetTeammates": false,
+      "timeBetweenClick": 100,
+      "triggerBotEnabled": false,
+      "triggerBotKeybind": {
+        "key": 5,
+        "method": 0
+      }
+    },
+    "clientMods_antiafk": {
+      "afkMethod": 0,
+      "antiAfkEnabled": false,
+      "forcefulFocusGain": false,
+      "gainFocusOnLost": true,
+      "spoofBasedAfkInterval": 60,
+      "virtualInputDelay": 15,
+      "virtualKeybindToPress": {
+        "key": 32,
+        "method": 0
+      }
+    },
+    "clientMods_antifling": {
+      "antiFlingEnabled": false
+    },
+    "clientMods_antirecoil": {
+      "antirecoilEnabled": false,
+      "arKeybind": {
+        "key": 2,
+        "method": 0
+      },
+      "arSensitivity": 2
+    },
+    "clientMods_bunnyHop": {
+      "bHopKey": {
+        "key": 5,
+        "method": 0
+      },
+      "bHopMethod": 0,
+      "bunnyHopEnabled": false,
+      "isGroundedDistance": 1,
+      "jumpInterval": 1,
+      "jumpVelocity": 16,
+      "randomizedJumpInterval": false
+    },
+    "clientMods_camera": {
+      "cameraFreecam": false,
+      "cameraZoom": false,
+      "cameraZoomKeybind": {
+        "key": 90,
+        "method": 0
+      },
+      "customCameraScrollDistance": false,
+      "customCameraScrollDistanceValue": {
+        "x": 0.5,
+        "y": 128
+      },
+      "customFov": false,
+      "customFovValue": 90,
+      "forceThirdPerson": false,
+      "freecamKey": {
+        "key": 67,
+        "method": 0
+      },
+      "freecamMovementSpeed": 3,
+      "freecamMovementSpeedMultiplier": 2,
+      "freecamMultiplierKey": {
+        "key": 17,
+        "method": 0
+      },
+      "freecamSensitivity": 2.299999952316284,
+      "freecamTp": false,
+      "freecamTpKey": {
+        "key": 0,
+        "method": 0
+      },
+      "lockCharacter": true,
+      "zoomIncrimentation": 2
+    },
+    "clientMods_clicktp": {
+      "clickTpDistance": 1000,
+      "clickTpEnabled": false
+    },
+    "clientMods_dahood_antistomp": {
+      "antistompEnabled": false,
+      "keepInventory": true,
+      "teleportBack": true
+    },
+    "clientMods_dahood_autostomp": {
+      "autostompEnabled": false,
+      "autostompStompKeybind": {
+        "key": 69,
+        "method": 0
+      },
+      "autostompStompKeybindEnable": {
+        "key": 70,
+        "method": 0
+      }
+    },
+    "clientMods_dahood_rapidfire": {
+      "rapidfireEnabled": false
+    },
+    "clientMods_desync": {
+      "attemptForceIdle": false,
+      "desyncEnabled": false,
+      "desyncHideCharacter": false,
+      "desyncKeybind": {
+        "key": 90,
+        "method": 1
+      },
+      "desyncMethod": 0,
+      "desyncVisualizers": false,
+      "randomizedTickRate": false,
+      "tickRate": false,
+      "tickRateDuration": 0
+    },
+    "clientMods_flight": {
+      "counterForce": 2,
+      "flightEnabled": false,
+      "flightKeybind": {
+        "key": 90,
+        "method": 0
+      },
+      "flyMethod": 1,
+      "flySpeed": 50,
+      "isFlying": false
+    },
+    "clientMods_glide": {
+      "fallMoveSpeedEnabled": 10,
+      "fallSpeedEnabled": 5,
+      "glideEnabled": false
+    },
+    "clientMods_healthInformer": {
+      "healthToInform": 30,
+      "informLowHealth": false,
+      "informWay": 1,
+      "soundEffect": 1,
+      "soundInformVolume": 1,
+      "vignetteColor": {
+        "w": 1,
+        "x": 1,
+        "y": 0.09803922474384308,
+        "z": 0.09803922474384308
+      },
+      "vignetteFading": true,
+      "voidTpOnLowHealth": false
+    },
+    "clientMods_hitbox": {
+      "expandSize": 10,
+      "hitboxExpander": false,
+      "hitboxExpanderIgnoreModes": [],
+      "hitboxTargetBone": 0,
+      "hitboxTargetTeammates": false,
+      "visualizeExpansion": false
+    },
+    "clientMods_humanoid": {
+      "antiPlatFormStandKey": {
+        "key": 0,
+        "method": 0
+      },
+      "antiPlatformStand": false,
+      "antiSit": false,
+      "antiSitKey": {
+        "key": 0,
+        "method": 0
+      },
+      "customHipHeight": false,
+      "customHumanoidMods": false,
+      "customJump": false,
+      "customSpeed": false,
+      "customUseJumpHeight": false,
+      "hipHeight": 0,
+      "hipHeightKey": {
+        "key": 0,
+        "method": 0
+      },
+      "infJump": false,
+      "jumpForce": 20,
+      "jumpKey": {
+        "key": 0,
+        "method": 0
+      },
+      "jumpPower": 7,
+      "jumpType": 2,
+      "speed": 16,
+      "speedKey": {
+        "key": 0,
+        "method": 0
+      },
+      "speedType": 1,
+      "useJumpHeight": false,
+      "useJumpHeightKey": {
+        "key": 0,
+        "method": 0
+      }
+    },
+    "clientMods_jetpack": {
+      "jetpackEnabled": false,
+      "jetpackKeybind": {
+        "key": 32,
+        "method": 0
+      },
+      "jetpackThrust": 50
+    },
+    "clientMods_noclip": {
+      "noclipEnabled": false,
+      "noclipKeybind": {
+        "key": 90,
+        "method": 0
+      }
+    },
+    "clientMods_nofall": {
+      "noFallDistance": 40,
+      "nofallEnabled": false,
+      "nofallVelocityInvert": 5
+    },
+    "clientMods_orbit": {
+      "orbitDirection": [
+        0
+      ],
+      "orbitDistance": 15,
+      "orbitSpeed": 10,
+      "tpBack": true
+    },
+    "clientMods_players": {
+      "whitelistedUserIds": []
+    },
+    "clientMods_rewind": {
+      "rewindEnabled": false,
+      "rewindLoadCurrent": {
+        "key": 0,
+        "method": 0
+      },
+      "rewindSaveCurrent": {
+        "key": 0,
+        "method": 0
+      },
+      "rewindSaveVelocity": false
+    },
+    "clientMods_spider": {
+      "spiderDistance": 0.699999988079071,
+      "spiderEnabled": false,
+      "spiderKeybind": {
+        "key": 0,
+        "method": 0
+      },
+      "spiderRadius": 1,
+      "spiderSpeed": 4
+    },
+    "clientMods_spinbot": {
+      "customOrientation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "enabled": false,
+      "keybind": {
+        "key": 0,
+        "method": 0
+      },
+      "spinSpeed": 10,
+      "spinType": 2,
+      "spinningCustom": false
+    },
+    "clientMods_tickrate": {
+      "customTickrate": 5,
+      "keybind": {
+        "key": 0,
+        "method": 0
+      },
+      "tickrateEnabled": false
+    },
+    "clientMods_voidHide": {
+      "voidHideConstantTeleport": true,
+      "voidHideEnabled": false,
+      "voidHideKeybind": {
+        "key": 80,
+        "method": 0
+      }
+    },
+    "clientMods_xray": {
+      "xrayEnabled": false,
+      "xrayKeybind": {
+        "key": 0,
+        "method": 0
+      }
+    },
+    "configsExplorer": {
+      "autoLoadInstallation": true,
+      "remindToLoadAgain": true
+    },
+    "explorer": {
+      "advancedSearch": false,
+      "automaticUpdateTime": 400,
+      "maxRTTIOffset": 1000,
+      "outlineSelectedInstances": true,
+      "selectedInstanceOutlineColor": {
+        "w": 0.3529411852359772,
+        "x": 0.2666666805744171,
+        "y": 0.43529415130615234,
+        "z": 0.8313726186752319
+      },
+      "showHiddenObjects": false,
+      "showInstanceIcon": true,
+      "superAdvancedSearch": false,
+      "toggleManualUpdate": false
+    },
+    "id": "ExternalConfigsSheldon",
+    "lighting": {
+      "atmosphereColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "atmosphereDecay": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "atmosphereDensity": 0,
+      "atmosphereGlare": 0,
+      "atmosphereHaze": 0,
+      "brightness": 0,
+      "clockTime": 8,
+      "colorCorrectionBrightness": 0,
+      "colorCorrectionContrast": 0,
+      "colorCorrectionSaturation": 0,
+      "colorCorrectionTint": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "customAtmosphereColor": false,
+      "customAtmosphereDecay": false,
+      "customAtmosphereDensity": false,
+      "customAtmosphereGlare": false,
+      "customAtmosphereHaze": false,
+      "customBrightness": false,
+      "customClockTime": false,
+      "customColorCorrectionBrightness": false,
+      "customColorCorrectionContrast": false,
+      "customColorCorrectionSaturation": false,
+      "customColorCorrectionTint": false,
+      "customExposure": false,
+      "customFog": false,
+      "customGlobalShadows": false,
+      "customGrassLength": false,
+      "customLatitude": false,
+      "customLightColor": false,
+      "customLightDirection": false,
+      "customMoonSize": false,
+      "customOutdoorAmbient": false,
+      "customSkyBottomAmbient": false,
+      "customSkyTopAmbient": false,
+      "customSkybox": false,
+      "customStarCount": false,
+      "customSunRaysIntensity": false,
+      "customSunRaysSpread": false,
+      "customSunSize": false,
+      "customWaterColor": false,
+      "customWaterWaveReflectance": false,
+      "customWaterWaveSpeed": false,
+      "customWaterWaveTransparency": false,
+      "exposure": 0,
+      "fogColor": {
+        "w": 0,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "fogEnd": 100,
+      "fogNear": 25,
+      "fullBright": false,
+      "globalShadows": false,
+      "grassLength": 0,
+      "latitude": 41.70000076293945,
+      "lightColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "lightDirection": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "moonSize": 0,
+      "outdoorAmbient": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotationSkybox": false,
+      "rotationSpeed": 10,
+      "skyBottomAmbient": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "skyTopAmbient": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "skybox": 0,
+      "skyboxOrientation": false,
+      "skyboxOrientationVal": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "starCount": 5000,
+      "sunRaysIntesity": 0,
+      "sunRaysSpread": 0,
+      "sunSize": 0,
+      "waterColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "waterWaveReflectance": 0,
+      "waterWaveSpeed": 0,
+      "waterWaveTransparency": 0
+    },
+    "name": "test",
+    "overlay": {
+      "antiCapture": false,
+      "configUploadEnabled": false,
+      "discordIntegration": false,
+      "explorerEnabled": false,
+      "focusOverlay": true,
+      "fpsCap": 0,
+      "keybindsEnabled": false,
+      "mainEnabled": true,
+      "renderOnRoblox": true,
+      "serverHopEnabled": false,
+      "showConsole": true,
+      "stylesEditorEnabled": false,
+      "uiKeybind": {
+        "key": 112,
+        "method": 0
+      },
+      "uncapOverlay": false
+    },
+    "uid": "dff0d378-34a0-4566-b56a-dec6e6b4ff934a09",
+    "visuals": {
+      "chamsColor": {
+        "w": 1,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "chamsEnabled": false,
+      "chamsFillColor": {
+        "w": 0.3921568989753723,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "chamsFilled": false,
+      "chamsFilledUseNormalColors": false,
+      "chamsFriendColor": {
+        "w": 1,
+        "x": 0.33725491166114807,
+        "y": 0.7490196228027344,
+        "z": 0.37254902720451355
+      },
+      "chamsGradientType": 0,
+      "chamsInvisibibleColor": {
+        "w": 1,
+        "x": 0.6784313917160034,
+        "y": 0.21176472306251526,
+        "z": 0.21176472306251526
+      },
+      "chamsStyles": [],
+      "chamsVisibibleColored": false,
+      "chamsWhitelistedColor": {
+        "w": 1,
+        "x": 0.37254902720451355,
+        "y": 0.5686274766921997,
+        "z": 0.9294118285179138
+      },
+      "coloredNametagsDistanceDisplay": false,
+      "coloredNametagsHealthDisplay": false,
+      "customFriendColor": false,
+      "customWhitelistColor": false,
+      "distanceColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "distanceDisplay": false,
+      "distancePosition": 6,
+      "drawDead": false,
+      "drawGlowSize": 16,
+      "drawOutlineThickness": 2,
+      "drawSelf": false,
+      "drawTeammates": false,
+      "drawThickness": 2,
+      "enabled": true,
+      "espBoxStyle": 0,
+      "espBoxStyleRender": 1,
+      "espChams": 0,
+      "espColor": {
+        "w": 1,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "espFadeOffSpeed": 4,
+      "espFillColor": {
+        "w": 0.3921568989753723,
+        "x": 0.7882353663444519,
+        "y": 0.5411764979362488,
+        "z": 0.34117648005485535
+      },
+      "espGradientMin": {
+        "w": 1,
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "espGradientType": 0,
+      "espStyles": [
+        1
+      ],
+      "espfilled": false,
+      "fillUseNormalColors": false,
+      "filterDistant": false,
+      "friendColor": {
+        "w": 1,
+        "x": 0.33725491166114807,
+        "y": 0.7490196228027344,
+        "z": 0.37254902720451355
+      },
+      "friendColoredChams": false,
+      "gradientChamsColor": {
+        "w": 1,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "headDot": false,
+      "headDotColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "headDotFilled": false,
+      "headDotFilledColor": {
+        "w": 0.3921568989753723,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "headDotNormalColors": false,
+      "headDotRadius": 9.5,
+      "headDotSegments": 32,
+      "headDotStyles": [],
+      "healthBar": false,
+      "healthBarColor": {
+        "w": 1,
+        "x": 0.13725490868091583,
+        "y": 1,
+        "z": 0.05882353335618973
+      },
+      "healthBarEspStyles": [
+        1
+      ],
+      "healthBarGradient": 1,
+      "healthBarHealthText": true,
+      "healthBarHealthTextColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "healthBarHealthTextGradient": false,
+      "healthBarLowColor": {
+        "w": 1,
+        "x": 0.7215686440467834,
+        "y": 0.364705890417099,
+        "z": 0.2862745225429535
+      },
+      "healthBarMargin": 3,
+      "healthBarMaxHealth": false,
+      "healthBarPosition": 4,
+      "healthBarWidth": 2,
+      "heldTool": false,
+      "heldToolColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "heldToolPosition": 3,
+      "humanoidState": false,
+      "humanoidStatePosition": 3,
+      "invisibibleColor": {
+        "w": 1,
+        "x": 0.6784313917160034,
+        "y": 0.21176472306251526,
+        "z": 0.21176472306251526
+      },
+      "lookDirection": false,
+      "lookDirectionColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "lookDirectionExtension": 19,
+      "lookDirectionStyles": [],
+      "maxDistance": 1000,
+      "meshChamsType": 1,
+      "nameColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "nameDisplay": false,
+      "namePosition": 1,
+      "nameType": 0,
+      "nametags": false,
+      "nametagsDistance": false,
+      "nametagsDistanceColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "nametagsFont": 1,
+      "nametagsHealthColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "nametagsHealthDisplay": false,
+      "nametagsMaxDistanceColor": {
+        "w": 1,
+        "x": 0.13725490868091583,
+        "y": 1,
+        "z": 0.05882353335618973
+      },
+      "nametagsMaxHealthColor": {
+        "w": 1,
+        "x": 0.13725490868091583,
+        "y": 1,
+        "z": 0.05882353335618973
+      },
+      "nametagsMinDistanceColor": {
+        "w": 1,
+        "x": 0.7215686440467834,
+        "y": 0.364705890417099,
+        "z": 0.2862745225429535
+      },
+      "nametagsMinHealthColor": {
+        "w": 1,
+        "x": 0.7215686440467834,
+        "y": 0.364705890417099,
+        "z": 0.2862745225429535
+      },
+      "nametagsNameColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "oofArrows": false,
+      "playerArrowsColors": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "playerArrowsGradient": 0,
+      "playerArrowsGradientMinColors": {
+        "w": 1,
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "playerArrowsRadius": 25,
+      "playerArrowsShowAvatars": true,
+      "playerArrowsSize": 5,
+      "playerArrowsStyles": [],
+      "pulseColor": {
+        "w": 1,
+        "x": 0.8901961445808411,
+        "y": 0.6117647290229797,
+        "z": 0.38431376218795776
+      },
+      "pulseEsp": false,
+      "pulseMaxDistance": 150,
+      "pulseSpeed": 2,
+      "removeAntialiasing": false,
+      "skeleton": false,
+      "skeletonColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "skeletonNormalColored": false,
+      "skeletonStyles": [],
+      "stateTextColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "tColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "tNormalColor": false,
+      "tThickness": 4,
+      "targetPlayerColor": {
+        "w": 1,
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "targetPlayerColored": false,
+      "teamColored": false,
+      "teamColoredChams": false,
+      "teamNameDisplay": false,
+      "teamNameTeamColored": false,
+      "teamPosition": 1,
+      "teamTextColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "threeDCircle": false,
+      "threeDCircleRadius": 2,
+      "threeDCircleSegments": 32,
+      "threeDColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "threeDFilled": false,
+      "threeDFilledColor": {
+        "w": 0.3921568989753723,
+        "x": 0.7843137979507446,
+        "y": 0.29411765933036804,
+        "z": 0.29411765933036804
+      },
+      "threeDFilledNormalColors": false,
+      "threeDIsGrounded": false,
+      "threeDNotGrounded": {
+        "w": 1,
+        "x": 0.29411765933036804,
+        "y": 1,
+        "z": 0.29411765933036804
+      },
+      "threeDStyles": [],
+      "timeToExist": 3,
+      "tracersBodyPart": 0,
+      "tracersColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "tracersCustomPosition": {
+        "x": 0.5,
+        "y": 0.949999988079071
+      },
+      "tracersEnabled": false,
+      "tracersGradientMin": {
+        "w": 1,
+        "x": 0.7215686440467834,
+        "y": 0.364705890417099,
+        "z": 0.2862745225429535
+      },
+      "tracersGradientType": 0,
+      "tracersPosition": 0,
+      "tracersStyles": [],
+      "tracersWidth": 2,
+      "trails": false,
+      "velocityVisualizer": false,
+      "velocityVisualizerColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "velocityVisualizerMaxColor": {
+        "w": 1,
+        "x": 0.29411765933036804,
+        "y": 1,
+        "z": 0.29411765933036804
+      },
+      "velocityVisualizerStyles": [],
+      "visibibleColored": false,
+      "visualsFont": 0,
+      "visualsIgnoreMode": [],
+      "visualsPadding": 0,
+      "webTracers": false,
+      "websGravity": 5,
+      "whitelistColoredChams": false,
+      "whitelistedColor": {
+        "w": 1,
+        "x": 0.37254902720451355,
+        "y": 0.5686274766921997,
+        "z": 0.9294118285179138
+      }
+    },
+    "visuals_crosshair": {
+      "adaptiveColor": false,
+      "enabled": false,
+      "styles": []
+    },
+    "visuals_crosshair_dot": {
+      "color": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "enabled": false,
+      "fillColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "filled": true,
+      "radius": 0,
+      "size": 4,
+      "thickness": 4
+    },
+    "visuals_crosshair_lines": {
+      "color": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "distance": 1,
+      "enabled": false,
+      "fillColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "filled": true,
+      "length": 4,
+      "thickness": 1
+    },
+    "visuals_preview": {
+      "R6": true,
+      "enabled": true
+    },
+    "waypoints": {
+      "drawWaypointsOnRadar": false,
+      "drawWaypointsOnWorld": false,
+      "heightTextColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "nameTextColor": {
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "radar": false,
+      "radarBackgroundColor": {
+        "w": 1,
+        "x": 0.05882353335618973,
+        "y": 0.05882353335618973,
+        "z": 0.05882353335618973
+      },
+      "radarCoordinatesFont": 1,
+      "radarDistance": 50,
+      "radarInfoFont": 1,
+      "radarNameType": 0,
+      "radarPos": {
+        "x": 0.009999999776482582,
+        "y": 0.9800000190734863
+      },
+      "radarRelative": 1,
+      "radarShowName": false,
+      "radarShowTeammates": false,
+      "radarSize": 2,
+      "radarSmoothness": 0,
+      "radarUseAvatar": false,
+      "saveDeathPositions": false,
+      "showAllWaypoints": false,
+      "showCoordinates": false,
+      "showDeathWaypoints": false,
+      "showDirections": false,
+      "showHeight": false,
+      "smartDistance": false
+    }
+  }
+}
